@@ -1,6 +1,6 @@
 # Curriculum Learning PaperList/Materials
 
-This repository contains Curriculum Learning related papers and materials. Welcome contribute to this repo (typos or adding new papers). 
+This repository contains Curriculum Learning related papers and materials. 
 
 ## PaperList
 
@@ -79,16 +79,3 @@ This repository contains Curriculum Learning related papers and materials. Welco
 - Curriculum Pre-training for End-to-End Speech Translation [ACL]
 - Norm-Based Curriculum Learning for Neural Machine Translation [ACL]
 - Uncertainty-Aware Curriculum Learning for Neural Machine Translation [ACL]
-
-## Materials
-
-### PaperNote 
-
-My homepage contains notes(in Chinese) on papers I have read. I may update links of some good notes written by others.
-
-My homepage notes links: [Curriculum Learning PaperNote](http://www.linzehui.me/tags/Curriculum-Learning/)
-
-### Summary/Survey
-
-Curriculum Learning schedule summary: [Curriculum Learning schedule 总结](http://www.linzehui.me/2019/08/09/%E8%AE%BA%E6%96%87/Curriculum%20Learning%20schedule%E6%80%BB%E7%BB%93/)
-
